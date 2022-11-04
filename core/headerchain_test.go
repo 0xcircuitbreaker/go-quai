@@ -16,7 +16,7 @@
 
 package core
 
-import (
+/*import (
 	"errors"
 	"fmt"
 	"math/big"
@@ -113,4 +113,4 @@ func TestHeaderInsertion(t *testing.T) {
 
 	// And B becomes even longer
 	testInsert(t, hc, chainB[107:128], CanonStatTy, nil)
-}
+}*/

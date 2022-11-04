@@ -16,7 +16,7 @@
 
 package core
 
-import (
+/*import (
 	"fmt"
 	"math/big"
 	"testing"
@@ -198,4 +198,4 @@ func BenchmarkHashing(b *testing.B) {
 	if got != exp {
 		b.Fatalf("hash wrong, got %x exp %x", got, exp)
 	}
-}
+}*/

@@ -16,7 +16,7 @@
 
 package core
 
-import (
+/*import (
 	"math/big"
 	"math/rand"
 	"testing"
@@ -68,3 +68,4 @@ func BenchmarkTxListAdd(t *testing.B) {
 		list.Filter(priceLimit, DefaultTxPoolConfig.PriceBump)
 	}
 }
+*/

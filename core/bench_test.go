@@ -16,7 +16,7 @@
 
 package core
 
-import (
+/*import (
 	"crypto/ecdsa"
 	"io/ioutil"
 	"math/big"
@@ -303,4 +303,4 @@ func benchReadChain(b *testing.B, full bool, count uint64) {
 		chain.Stop()
 		db.Close()
 	}
-}
+}*/

@@ -16,7 +16,7 @@
 
 package core
 
-import (
+/*import (
 	"math/big"
 	"testing"
 
@@ -157,4 +157,4 @@ func TestDAOForkRangeExtradata(t *testing.T) {
 	if _, err := proBc.InsertChain(blocks); err != nil {
 		t.Fatalf("pro-fork chain didn't accept contra-fork block post-fork: %v", err)
 	}
-}
+}*/

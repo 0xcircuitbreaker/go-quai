@@ -19,7 +19,7 @@
 
 package core
 
-import (
+/*import (
 	"bytes"
 	"fmt"
 	"io/ioutil"
@@ -715,4 +715,4 @@ func TestRecoverSnapshotFromWipingCrash(t *testing.T) {
 	}
 	test.test(t)
 	test.teardown()
-}
+}*/

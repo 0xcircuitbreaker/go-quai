@@ -19,7 +19,7 @@
 
 package core
 
-import (
+/*import (
 	"fmt"
 	"io/ioutil"
 	"math/big"
@@ -2166,4 +2166,4 @@ func verifyCutoff(t *testing.T, chain *BlockChain, canonical bool, inserted type
 // uint64ptr is a weird helper to allow 1-line constant pointer creation.
 func uint64ptr(n uint64) *uint64 {
 	return &n
-}
+}*/

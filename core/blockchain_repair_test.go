@@ -20,7 +20,7 @@
 
 package core
 
-import (
+/*import (
 	"io/ioutil"
 	"math/big"
 	"os"
@@ -1859,4 +1859,4 @@ func testRepair(t *testing.T, tt *rewindTest, snapshots bool) {
 	} else if int(frozen) != tt.expFrozen {
 		t.Errorf("Frozen block count mismatch: have %d, want %d", frozen, tt.expFrozen)
 	}
-}
+}*/

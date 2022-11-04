@@ -16,7 +16,7 @@
 
 package core
 
-import (
+/*import (
 	"crypto/ecdsa"
 	"errors"
 	"fmt"
@@ -2540,4 +2540,4 @@ func BenchmarkInsertRemoteWithAllLocals(b *testing.B) {
 		}
 		pool.Stop()
 	}
-}
+}*/

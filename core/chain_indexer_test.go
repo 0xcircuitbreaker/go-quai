@@ -16,7 +16,7 @@
 
 package core
 
-import (
+/*import (
 	"context"
 	"errors"
 	"fmt"
@@ -243,4 +243,4 @@ func (b *testChainIndexBackend) Commit() error {
 
 func (b *testChainIndexBackend) Prune(threshold uint64) error {
 	return nil
-}
+}*/

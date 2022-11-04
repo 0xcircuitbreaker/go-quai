@@ -16,7 +16,7 @@
 
 package state
 
-import (
+/*import (
 	"bytes"
 	"math/big"
 	"testing"
@@ -250,4 +250,4 @@ func compareStateObjects(so0, so1 *stateObject, t *testing.T) {
 			t.Errorf("Origin storage key %x mismatch: have %v, want none.", k, v)
 		}
 	}
-}
+}*/

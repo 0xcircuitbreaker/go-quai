@@ -16,7 +16,7 @@
 
 package state
 
-import (
+/*import (
 	"bytes"
 	"encoding/binary"
 	"fmt"
@@ -914,4 +914,4 @@ func TestStateDBAccessList(t *testing.T) {
 	if got, exp := len(state.accessList.slots), 1; got != exp {
 		t.Fatalf("expected empty, got %d", got)
 	}
-}
+}*/
